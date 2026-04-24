@@ -57,9 +57,6 @@ export default {
         microphonePermission: false,
       },
     ],
-    [
-      'react-native-reanimated/plugin',
-    ],
   ],
   extra: {
     APP_ENV,
