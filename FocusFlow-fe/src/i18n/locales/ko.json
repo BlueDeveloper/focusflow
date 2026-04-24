@@ -1,0 +1,72 @@
+{
+  "common": {
+    "confirm": "확인",
+    "cancel": "취소",
+    "save": "저장",
+    "delete": "삭제",
+    "close": "닫기",
+    "start": "시작",
+    "pause": "일시정지",
+    "resume": "재개",
+    "stop": "정지",
+    "reset": "초기화",
+    "skip": "건너뛰기"
+  },
+  "tabs": {
+    "home": "홈",
+    "stats": "통계",
+    "settings": "설정"
+  },
+  "timer": {
+    "focus": "집중",
+    "shortBreak": "짧은 휴식",
+    "longBreak": "긴 휴식",
+    "session": "세션",
+    "round": "{{current}} / {{total}} 라운드",
+    "focusTime": "집중 시간",
+    "breakTime": "휴식 시간",
+    "longBreakTime": "긴 휴식 시간",
+    "rounds": "라운드 수",
+    "minutes": "분",
+    "sessionComplete": "세션 완료!",
+    "breakComplete": "휴식 끝! 집중할 시간이에요.",
+    "todayFocus": "오늘 집중 시간",
+    "customTimer": "커스텀 타이머"
+  },
+  "sound": {
+    "title": "배경음",
+    "rain": "비",
+    "wave": "파도",
+    "wind": "바람",
+    "bird": "새소리",
+    "whiteNoise": "화이트노이즈",
+    "mixer": "사운드 믹서",
+    "volume": "볼륨"
+  },
+  "stats": {
+    "title": "집중 통계",
+    "today": "오늘",
+    "thisWeek": "이번 주",
+    "thisMonth": "이번 달",
+    "totalFocus": "총 집중 시간",
+    "totalSessions": "총 세션",
+    "streak": "연속 집중일",
+    "bestStreak": "최고 연속일",
+    "averageDaily": "일평균",
+    "hours": "시간",
+    "mins": "분"
+  },
+  "settings": {
+    "title": "설정",
+    "theme": "테마",
+    "themeLight": "라이트",
+    "themeDark": "다크",
+    "themeSystem": "시스템",
+    "language": "언어",
+    "notification": "알림",
+    "vibration": "진동",
+    "sound": "소리",
+    "about": "앱 정보",
+    "version": "버전"
+  }
+}

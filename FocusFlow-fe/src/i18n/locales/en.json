@@ -1,0 +1,72 @@
+{
+  "common": {
+    "confirm": "OK",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "close": "Close",
+    "start": "Start",
+    "pause": "Pause",
+    "resume": "Resume",
+    "stop": "Stop",
+    "reset": "Reset",
+    "skip": "Skip"
+  },
+  "tabs": {
+    "home": "Home",
+    "stats": "Stats",
+    "settings": "Settings"
+  },
+  "timer": {
+    "focus": "Focus",
+    "shortBreak": "Short Break",
+    "longBreak": "Long Break",
+    "session": "Session",
+    "round": "{{current}} / {{total}} rounds",
+    "focusTime": "Focus Time",
+    "breakTime": "Break Time",
+    "longBreakTime": "Long Break Time",
+    "rounds": "Rounds",
+    "minutes": "min",
+    "sessionComplete": "Session complete!",
+    "breakComplete": "Break's over! Time to focus.",
+    "todayFocus": "Today's Focus",
+    "customTimer": "Custom Timer"
+  },
+  "sound": {
+    "title": "Ambient Sound",
+    "rain": "Rain",
+    "wave": "Ocean",
+    "wind": "Wind",
+    "bird": "Birds",
+    "whiteNoise": "White Noise",
+    "mixer": "Sound Mixer",
+    "volume": "Volume"
+  },
+  "stats": {
+    "title": "Focus Stats",
+    "today": "Today",
+    "thisWeek": "This Week",
+    "thisMonth": "This Month",
+    "totalFocus": "Total Focus",
+    "totalSessions": "Total Sessions",
+    "streak": "Day Streak",
+    "bestStreak": "Best Streak",
+    "averageDaily": "Daily Avg",
+    "hours": "hrs",
+    "mins": "min"
+  },
+  "settings": {
+    "title": "Settings",
+    "theme": "Theme",
+    "themeLight": "Light",
+    "themeDark": "Dark",
+    "themeSystem": "System",
+    "language": "Language",
+    "notification": "Notifications",
+    "vibration": "Vibration",
+    "sound": "Sound",
+    "about": "About",
+    "version": "Version"
+  }
+}
