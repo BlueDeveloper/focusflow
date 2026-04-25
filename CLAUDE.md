@@ -12,6 +12,11 @@
 
 작업이 완료되면 반드시 변경사항을 커밋하고 원격 저장소에 푸시한다.
 
+### Metro 포트 격리
+- **Metro 포트**: `8082` (고정) — 다른 프로젝트 Metro와 **동시 실행 금지** (Windows watcher 핸들 제한). 전환 시 기존 Metro 종료 후 시작.
+- **`taskkill //F //IM node.exe` 절대 금지**: Metro뿐 아니라 Claude Code 세션까지 종료됨. Metro 종료는 포트 기반 PID kill만 사용.
+- **에뮬레이터 기동 시**: `adb reverse tcp:8082 tcp:8082` (현재 프로젝트 포트만 설정)
+
 ---
 
 ## 1. 프로젝트 개요
